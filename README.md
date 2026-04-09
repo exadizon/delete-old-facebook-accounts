@@ -78,7 +78,7 @@ Facebook then treats the account as an impersonation of a real person (you), ver
 
 - This process works for accounts you created years ago and no longer have login access to.
 - It also works if someone else created an account using your name/photos.
-- Facebook typically processes these requests within a few days, though it can sometimes take longer.
+- This process typically takes ~30 minutes for the email to be received, or in some occasions longer.
 - You will not need to log in to any Facebook account to complete this process.
 
 ---
